@@ -1,8 +1,10 @@
-# 🎈 Blank app template
+# OpenSingularity ImageGen
 
-A simple Streamlit app template for you to modify!
+Based on Stable Diffusion!
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open OpenSingularity](https://opensingularity.streamlit.app/)
+
 
 ### How to run it on your own machine
 
@@ -17,3 +19,4 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
